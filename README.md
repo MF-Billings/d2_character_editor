@@ -1,0 +1,1 @@
+A character editor for Diablo 2: Lord or Destruction written in Go. A work in progress.
